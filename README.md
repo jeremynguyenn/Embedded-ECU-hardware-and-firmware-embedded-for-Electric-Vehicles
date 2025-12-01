@@ -1,9 +1,9 @@
-# Custom ECU for Bespoke Electric Vehicles (EVs)
+# Custom ECU for Electric Vehicles (EVs)
 
 
 An open source reference hardware and software for building a custom ECU, designed with bespoke EVs in mind.
 
-The ECU design is particularly tailored to FSAE/Formula Student, custom go-karts, and custom hill-climb vehicles.
+The ECU design is particularly tailored to custom go-karts, and custom hill-climb vehicles.
 
 ![Top Level Block Diagram](hardware/images/ECU_block_design_ECU_system_diagram.png)
 
