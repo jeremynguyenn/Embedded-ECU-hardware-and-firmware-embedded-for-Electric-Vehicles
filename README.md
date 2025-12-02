@@ -102,9 +102,6 @@ The ECU hardware provides a unified solution for several circuits required for a
 
 ![ECU With Loom Connections](hardware/images/ECU_Loom.jpeg)
 
-<h1 id="Detailed-Block-Diagram">Detailed Block Diagram</h1>
-
-![Detailed Block Diagram](hardware/images/ECU_block_design_ECU_Internal_v1.4.png)
 
 <h1 id="PCBA">PCBA</h1>
 
